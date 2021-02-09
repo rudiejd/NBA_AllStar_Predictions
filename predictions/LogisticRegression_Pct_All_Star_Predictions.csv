@@ -1,7 +1,9 @@
 ,Player,All_Star_Prediction
+3,Bam Adebayo,True
 12,Giannis Antetokounmpo,True
 38,Bradley Beal,True
 112,Stephen Curry,True
+113,Anthony Davis,True
 121,Luka Doncic,True
 131,Kevin Durant,True
 136,Joel Embiid,True
@@ -12,6 +14,8 @@
 270,Zach LaVine,True
 278,Kawhi Leonard,True
 283,Damian Lillard,True
+311,CJ McCollum,True
+404,Julius Randle,True
 450,Jayson Tatum,True
 464,Karl-Anthony Towns,True
 508,Trae Young,True
