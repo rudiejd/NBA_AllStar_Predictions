@@ -40,3 +40,16 @@ If you want to play around with the NBA data I've aggregated or the methods I've
 
  ## Results
  I included the results from each model in the predictions folder. You can find accuracy statistics in the included Jupyter notebook.
+[contributors-shield]: https://img.shields.io/github/contributors/rudiejd/NBA_AllStar_Predictions.svg?style=for-the-badge
+[contributors-url]: https://github.com/rudiejd/NBA_AllStar_Predictions/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rudiejd/NBA_AllStar_Predictions.svg?style=for-the-badge
+[forks-url]: https://github.com/rudiejd/NBA_AllStar_Predictions/network/members
+[stars-shield]: https://img.shields.io/github/stars/rudiejd/NBA_AllStar_Predictions.svg?style=for-the-badge
+[stars-url]: https://github.com/rudiejd/NBA_AllStar_Predictions/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rudiejd/NBA_AllStar_Predictions.svg?style=for-the-badge
+[issues-url]: https://github.com/rudiejd/NBA_AllStar_Predictions/issues
+[license-shield]: https://img.shields.io/github/license/rudiejd/NBA_AllStar_Predictions.svg?style=for-the-badge
+[license-url]: https://github.com/rudiejd/NBA_AllStar_Predictions/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/rudiejd
+[product-screenshot]: images/screenshot.png
